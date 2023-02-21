@@ -1,4 +1,4 @@
-# First Repo
+# Homework 4
 
 This is a test organization repo for my N215 class
 
@@ -24,5 +24,4 @@ For this homework assignment you will be making the home pagefrom the travel-fly
 
 ## Homework 4 URL
 
-https://in-info-web4.informatics.iupui.edu/~bakejona/homework-three/
-# Homework-4
+https://in-info-web4.informatics.iupui.edu/~bakejona/homework-four/
